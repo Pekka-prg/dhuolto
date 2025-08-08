@@ -1,6 +1,6 @@
 .dhuolto-background {
     /* background-color: rgb(52, 107, 155); */
-    background-image: url(/Pictures/dental.jpg);
+    background-image: url(..//Pictures/dental.jpg);
     background-size:cover;
     min-height:400px;
     /* width: 100%;
